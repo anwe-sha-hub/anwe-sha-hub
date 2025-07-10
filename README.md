@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Anwe Sha
+# Hi there 👋, I'm Anwesha Jha
 
 🚀 Passionate about Web Development & DSA  
 💻 Exploring React.js, Node.js & Open Source  
@@ -17,18 +17,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-![Anwe Sha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anwe-sha-hub&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anwe-sha-hub&layout=compact&theme=radical)](https://github.com/anwe-sha-hub)
-
----
-
-### 🔥 Contribution Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=anwe-sha-hub&theme=radical)](https://git.io/streak-stats)
-
----
 
 ### 📫 Connect with me
 [LinkedIn](#) • [Portfolio](#) • [Email](mailto:youremail@example.com)
