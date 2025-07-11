@@ -5,7 +5,9 @@
 🌱 Always learning and building cool projects  
 
 ---
+Hi,my name is  Anwesha Jha,I’m an enthusiastic and curious learner who loves to solve problems through code and build projects that make an impact.
 
+---
 ### 🛠️ Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) 
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat) 
