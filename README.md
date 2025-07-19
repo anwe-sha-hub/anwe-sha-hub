@@ -21,4 +21,4 @@ Hi,my name is  Anwesha Jha,I’m an enthusiastic and curious learner who loves t
 
 
 ### 📫 Connect with me
-[LinkedIn](#) • [Portfolio](#) • [Email](mailto:youremail@example.com)
+[LinkedIn](https://www.linkedin.com/in/anwesha-jha-aa3782322/)  • [Email](mailto:anwesshajhaa@gmail.com)
