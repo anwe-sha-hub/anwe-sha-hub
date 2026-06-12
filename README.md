@@ -1,293 +1,396 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4B0082,25:6A0DAD,50:7B2CBF,75:5A189A,100:3C096C&text=Anwesha%20Jha&fontColor=ffffff&fontSize=55&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Anwesha%20Jha&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=900&lines=B.Tech+CSE+Student;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+Software+Products;Open+Source+Contributor"/>
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Building+systems+that+scale.;Crafting+clean%2C+purposeful+UIs.;Full+Stack+%7C+DSA+%7C+Open+Source.;Web+Developer+%40+GFG+KIIT.;CS+%40+KIIT+University.)](https://git.io/typing-svg)
+
+</div>
 
 <br/>
 
-![](https://img.shields.io/badge/B.Tech-CSE-6A0DAD?style=for-the-badge)
-![](https://img.shields.io/badge/KIIT-University-5A189A?style=for-the-badge)
-![](https://img.shields.io/badge/Software-Engineering-4B0082?style=for-the-badge)
+<div align="center">
 
-![](https://img.shields.io/badge/Location-Bhubaneswar%2C%20India-7B2CBF?style=for-the-badge)
+![B.Tech CSE](https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white)
+![KIIT University](https://img.shields.io/badge/KIIT-University%2C%20Bhubaneswar-4F46E5?style=flat-square&logo=university&logoColor=white)
+![3rd Year](https://img.shields.io/badge/Year-3rd-6D28D9?style=flat-square)
+![India](https://img.shields.io/badge/Location-Patna%2C%20Bihar%2C%20IN-5B21B6?style=flat-square&logo=google-maps&logoColor=white)
 
-<a href="https://www.linkedin.com/in/anwesha-jha-aa3782322/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+</div>
 
-<a href="mailto:anwesshajhaa@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<br/>
 
-<a href="https://github.com/anwe-sha-hub">
-<img src="https://img.shields.io/badge/GitHub-Profile-4B0082?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<div align="center">
 
-![](https://komarev.com/ghpvc/?username=anwe-sha-hub&style=for-the-badge&color=6A0DAD)
-![](https://img.shields.io/github/followers/anwe-sha-hub?style=for-the-badge&color=7B2CBF)
-![](https://img.shields.io/github/stars/anwe-sha-hub?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=5A189A)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/anwe-sha-hub/Portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anwesha-jha)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anweshajha@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anwe-sha-hub)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=anwe-sha-hub&color=7C3AED&style=flat-square&label=Profile+Views)
+![GitHub Followers](https://img.shields.io/github/followers/anwe-sha-hub?color=4F46E5&style=flat-square&logo=github&label=Followers)
+![GitHub Stars](https://img.shields.io/github/stars/anwe-sha-hub?color=6D28D9&style=flat-square&logo=github&label=Stars)
 
 </div>
 
 ---
 
-# About Me
+## 🧠 About
 
-I am a Computer Science Engineering student focused on building scalable software systems, modern web applications, and AI-powered solutions. My interests lie at the intersection of Software Engineering, Full Stack Development, Artificial Intelligence, and Product Development.
+<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=anwe-sha-hub&show_icons=true&theme=tokyonight&bg_color=0D0D1A&border_color=7C3AED&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&hide_border=false&count_private=true" />
 
-I enjoy transforming ideas into production-ready applications using modern technologies while maintaining clean architecture, performance, scalability, and security standards.
+I am **Anwesha Jha**, a Computer Science & Engineering student at KIIT University with a passion for web development, data structures & algorithms, and building products that solve real problems.
 
-### Open To
+I approach engineering with both technical rigour and design sensibility — writing clean, maintainable code and crafting interfaces that are intuitive and purposeful. My work spans full-stack web applications, competitive programming, and open source contributions.
 
-- Software Engineering Internships
-- Full Stack Development Roles
-- AI/ML Projects
-- Open Source Contributions
-- Product Engineering Opportunities
-- Technical Communities & Hackathons
+Currently deepening my expertise in the MERN stack, building **CouponVault** — a centralized coupon management platform for India's digital payment ecosystem — and sharpening algorithmic thinking through consistent competitive programming practice.
+
+I contribute to campus tech culture as a **Web Developer at GFG KIIT**, an active **IoT Labs** member, and an **NSS Volunteer** at KIIT.
+
+<br/>
+
+**Open To**
+- Software Engineering Internships (SDE / Full Stack / Frontend)
+- Open Source Collaborations
+- Hackathon Teams & Technical Projects
+- Technical Community Roles
+
+<br clear="right"/>
 
 ---
 
-# Tech Stack
+## ⚙️ Tech Stack
+
+<div align="center">
 
 ### Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,js,html,css"/>
-</p>
+[![Skill Icons](https://skillicons.dev/icons?i=cpp,js,html,css,python&theme=dark)](https://skillicons.dev)
 
 ### Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,js"/>
-</p>
+[![Skill Icons](https://skillicons.dev/icons?i=react,vite,tailwind,figma&theme=dark)](https://skillicons.dev)
 
 ### Backend & Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,spring,mysql,mongodb"/>
-</p>
+[![Skill Icons](https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark)](https://skillicons.dev)
 
 ### Cloud, DevOps & Tooling
+[![Skill Icons](https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark)](https://skillicons.dev)
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux"/>
-</p>
+</div>
 
 ---
 
-# AI / ML Expertise
+## 🤖 AI / ML Expertise
+
+<div align="center">
 
 | Domain | Proficiency | Details |
-|----------|----------|----------|
-| Machine Learning | Intermediate | Model Training, Feature Engineering, Data Analysis |
-| Generative AI | Intermediate | Prompt Engineering, LLM Applications |
-| AI Product Development | Intermediate | AI-enabled Productivity Solutions |
-| Data Processing | Intermediate | Data Cleaning & Transformation |
-| AI Application Design | Intermediate | User-focused AI Product Development |
+|---|---|---|
+| Machine Learning | ⬛⬛⬛⬜⬜ Intermediate | Supervised learning, model evaluation, scikit-learn |
+| Data Engineering | ⬛⬛⬛⬜⬜ Intermediate | Data wrangling, Pandas, NumPy, Matplotlib |
+| Natural Language Processing | ⬛⬛⬜⬜⬜ Developing | Text classification, embeddings, LLM API integration |
+| Deep Learning | ⬛⬛⬜⬜⬜ Developing | Neural network fundamentals, TensorFlow basics |
+| API Integration | ⬛⬛⬛⬛⬜ Advanced | REST APIs, real-time data fetching, third-party SDKs |
+| Algorithms & DSA | ⬛⬛⬛⬛⬜ Advanced | Arrays, Trees, Graphs, DP, Greedy, Backtracking |
+
+</div>
 
 ---
 
-# Featured Projects
+## 🚀 Featured Projects
 
 <details>
-<summary><b>Coupon Vault</b></summary>
+<summary><strong>CouponVault — Centralized Coupon Management Platform</strong></summary>
 
-### Secure Coupon Management Platform
+<br/>
 
-| Metric | Details |
-|----------|----------|
-| Stack | Next.js, Node.js, JavaScript |
-| Scale | Multi-user coupon management |
-| Performance | Optimized search and retrieval |
-| Security | Role-based access control |
-| Impact | Simplified coupon organization |
-| Repository | GitHub Repository |
+A production-grade full-stack web application targeting the Indian digital payment ecosystem. CouponVault provides users with a unified dashboard to manage, track, and discover coupons across platforms like Swiggy, Zomato, GPay, PhonePe, and Flipkart — solving the fragmentation problem in India's rapidly expanding e-commerce landscape.
 
-Coupon Vault is a centralized coupon management platform designed to help users store, organize, and retrieve discount coupons efficiently.
+<br/>
+
+| Attribute | Details |
+|---|---|
+| **Stack** | React + Vite, Tailwind CSS, Node.js, Express, MongoDB Atlas |
+| **Scale** | Designed for high concurrency with optimised query patterns |
+| **Performance** | Sub-200ms API response targets, lazy loading, client-side caching |
+| **Security** | JWT-based auth, input validation, rate limiting, HTTPS-enforced |
+| **Impact** | Addresses coupon fragmentation across 6+ major Indian digital apps |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/anwe-sha-hub) |
+
+Designed with a Notion-inspired information architecture and a Linear-influenced interaction model — emphasising clarity, speed, and minimal cognitive load. Built frontend-first, progressively integrating backend services and the MERN data layer. Portfolio and hackathon-oriented with a production roadmap.
+
+<br/>
 
 </details>
 
+<details>
+<summary><strong>Currency Converter — Real-Time Exchange Rate App</strong></summary>
+
 <br/>
 
+A clean, functional currency converter web application built with vanilla JavaScript, leveraging a live exchange rate API for real-time currency conversion. Demonstrates proficiency in API integration, DOM manipulation, and building responsive, user-friendly interfaces without a framework.
+
+<br/>
+
+| Attribute | Details |
+|---|---|
+| **Stack** | HTML, CSS, JavaScript, Exchange Rate API |
+| **Scale** | Client-side application, live API data fetching |
+| **Performance** | Lightweight, zero-dependency, fast load times |
+| **Security** | Client-safe API key handling, input sanitisation |
+| **Impact** | Practical financial utility with clean, accessible UI |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/anwe-sha-hub/Currency_Convertor) |
+
+A focused project demonstrating real-world API integration skills and clean JavaScript architecture — built to be both functional and visually polished.
+
+<br/>
+
+</details>
+
 <details>
-<summary><b>AI Study Planner</b></summary>
+<summary><strong>Sidcup Family Golf — Website Clone</strong></summary>
 
-### AI-Powered Academic Productivity Platform
+<br/>
 
-| Metric | Details |
-|----------|----------|
-| Stack | Next.js, Node.js, AI APIs |
-| Scale | Student-focused productivity solution |
-| Performance | Intelligent schedule generation |
-| Security | Protected user data workflows |
-| Impact | Improved learning efficiency |
-| Repository | GitHub Repository |
+A high-fidelity responsive clone of the Sidcup Family Golf website, built using modern web development practices. This project served as an advanced CSS and layout exercise — replicating complex UI patterns including scroll animations, dynamic navigation, and responsive grid layouts.
 
-AI Study Planner leverages AI-driven planning techniques to generate personalized study schedules and optimize learning workflows.
+<br/>
+
+| Attribute | Details |
+|---|---|
+| **Stack** | HTML5, CSS3, JavaScript |
+| **Scale** | Multi-section marketing site with full responsive design |
+| **Performance** | Optimised assets, smooth CSS animations, minimal JS overhead |
+| **Security** | N/A — static front-end clone |
+| **Impact** | Advanced CSS layout and animation skills demonstration |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/anwe-sha-hub/Sidcup_Clone) |
+
+Demonstrates mastery of complex CSS techniques including custom scroll behaviour, flexbox/grid layouts, and precise cross-browser styling — skills directly applicable to production frontend engineering.
+
+<br/>
+
+</details>
+
+<details>
+<summary><strong>Coding Practice Archive — DSA Problem Repository</strong></summary>
+
+<br/>
+
+A structured, well-documented archive of Data Structures and Algorithms solutions sourced from GeeksforGeeks, LeetCode, and competitive programming platforms. Serves as both a personal reference and a community learning resource.
+
+<br/>
+
+| Attribute | Details |
+|---|---|
+| **Stack** | C++, JavaScript, Markdown documentation |
+| **Scale** | Growing archive across Arrays, Trees, Graphs, DP, Backtracking, Greedy |
+| **Performance** | Solutions benchmarked within competitive time/space constraints |
+| **Security** | N/A — open source educational resource |
+| **Impact** | Community-facing archive for GFG KIIT members and self-study |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/anwe-sha-hub/coding_practice) |
+
+Maintained with a focus on readability, complexity annotations, and alternate solution approaches — reinforcing deep algorithmic intuition over shallow pattern-matching.
+
+<br/>
 
 </details>
 
 ---
 
-# Experience
-
-## Web Developer | IoT Labs (KIIT Chapter)
-
-### Scope of Work
-
-- Developed responsive web interfaces
-- Improved user experience and accessibility
-- Collaborated with cross-functional teams
-- Supported technical community initiatives
-
-**Skills**
-
-`Next.js` `Node.js` `JavaScript` `Git` `GitHub`
+## 💼 Experience
 
 <br/>
 
-## Web Developer | GeeksforGeeks KIIT
+**Web Developer** &nbsp;·&nbsp; GFG KIIT Chapter &nbsp;·&nbsp; *2024 – Present*
 
-### Scope of Work
+Contributing as a core web developer for the GeeksforGeeks KIIT campus chapter — one of the most active technical communities at the university.
 
-- Website development
-- Feature implementation
-- UI improvements
-- Team collaboration
+- Designed and developed chapter web assets and internal tooling using React and Tailwind CSS
+- Collaborated with editorial and events teams to deliver high-impact developer workshops and events
+- Maintained frontend codebases ensuring a consistent, accessible user experience across platforms
 
-**Skills**
-
-`JavaScript` `HTML` `CSS`
+![React](https://img.shields.io/badge/React-7C3AED?style=flat-square&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-4F46E5?style=flat-square&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-6D28D9?style=flat-square&logo=javascript&logoColor=white)
 
 <br/>
 
-## Web Developer Intern | InAmgios Foundation
+**IoT Labs Member** &nbsp;·&nbsp; KIIT University &nbsp;·&nbsp; *2023 – Present*
 
-### Scope of Work
+Active member of the IoT Labs society, engaging with hardware-software integration projects and embedded systems experiments across the Internet of Things domain.
 
-- Frontend development
-- Website maintenance
-- Feature enhancements
-- Technical collaboration
+- Explored sensor interfacing, microcontroller programming, and real-time data capture pipelines
+- Collaborated on interdisciplinary projects bridging hardware prototyping with web-based dashboards
 
-**Skills**
+![IoT](https://img.shields.io/badge/IoT-7C3AED?style=flat-square&logo=arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C++-4F46E5?style=flat-square&logo=cplusplus&logoColor=white)
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-6D28D9?style=flat-square&logo=raspberrypi&logoColor=white)
 
-`Web Development` `Node.js`
+<br/>
+
+**General Volunteer** &nbsp;·&nbsp; NSS KIIT &nbsp;·&nbsp; *2023 – Present*
+
+Contributing to community development and social responsibility initiatives through the National Service Scheme at KIIT University.
+
+- Participated in campus and outreach programmes with measurable community impact
+- Developed leadership and cross-functional coordination skills across large-scale events
+
+![Community](https://img.shields.io/badge/Community%20Impact-5B21B6?style=flat-square&logo=heart&logoColor=white)
+![Leadership](https://img.shields.io/badge/Leadership-7C3AED?style=flat-square&logo=buffer&logoColor=white)
 
 ---
 
-# Achievements
+## 🏆 Achievements
+
+<div align="center">
 
 | Recognition | Details |
-|------------|----------|
-| Full Stack Development | Built multiple end-to-end web applications |
-| Community Contribution | Active contributor in technical communities |
-| AI Innovation | Developed AI-powered productivity solutions |
-| Software Engineering Growth | Focused on scalable product development |
-
----
-
-# Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/u/anwes_ha/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-6A0DAD?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/profile/lazystksv">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-7B2CBF?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
+|---|---|
+| 🌐 GFG KIIT Web Developer | Selected as a core technical contributor to one of KIIT's leading tech chapters |
+| 🚀 Open Source Builder | Portfolio, Sidcup Clone, Currency Converter — shipped and live on GitHub |
+| 🧩 DSA Practitioner | Active competitive programmer with a growing archive across LeetCode and GFG |
+| 📐 CouponVault — Product Build | End-to-end product design and development for portfolio and hackathon circuits |
+| 🔬 IoT Labs Member | Applied hardware-software integration projects at university level |
+| 🧭 NSS Volunteer | Consistent community contribution across multiple NSS campaigns at KIIT |
 
 </div>
 
 ---
 
-# GitHub Analytics
+## 📜 Certifications
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anwe-sha-hub&show_icons=true&theme=midnight-purple&hide_border=true"/>
+### NPTEL
+![NPTEL Data Structures](https://img.shields.io/badge/NPTEL-Data%20Structures%20%26%20Algorithms-007BFF?style=for-the-badge&logo=google-scholar&logoColor=white)
+![NPTEL Cloud Computing](https://img.shields.io/badge/NPTEL-Cloud%20Computing-007BFF?style=for-the-badge&logo=google-scholar&logoColor=white)
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anwe-sha-hub&theme=midnight-purple&hide_border=true"/>
+### Cisco
+![Cisco Networking](https://img.shields.io/badge/Cisco-Introduction%20to%20Networks-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Cisco Cybersecurity](https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwe-sha-hub&layout=compact&theme=midnight-purple&hide_border=true"/>
+### AWS
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### Oracle
+![Oracle Java](https://img.shields.io/badge/Oracle-Java%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 </div>
 
 ---
 
-# GitHub Trophies
+## 💻 Coding Profiles
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=anwe-sha-hub&theme=algolia&no-frame=true&column=4"/>
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/anwe-sha-hub)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/anwe-sha-hub)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/anwe-sha-hub)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/anwe-sha-hub)
 
 </div>
 
 ---
 
-# Contribution Activity
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anwe-sha-hub&theme=react-dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anwe-sha-hub&show_icons=true&theme=tokyonight&bg_color=0D0D1A&border_color=7C3AED&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&hide_border=false&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwe-sha-hub&layout=compact&theme=tokyonight&bg_color=0D0D1A&border_color=7C3AED&title_color=A78BFA&text_color=C4B5FD&hide_border=false&langs_count=8" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=anwe-sha-hub&theme=tokyonight&background=0D0D1A&border=7C3AED&ring=A78BFA&fire=7C3AED&currStreakNum=C4B5FD&sideNums=C4B5FD&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=6D28D9)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-# Contribution Snake
+## 🏅 GitHub Trophies
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/anwe-sha-hub/anwe-sha-hub/output/github-contribution-grid-snake-dark.svg"/>
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anwe-sha-hub&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-# Current Focus
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anwe-sha-hub&bg_color=0D0D1A&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=4F46E5&hide_border=false&border_color=7C3AED&custom_title=Contribution%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anwe-sha-hub/anwe-sha-hub/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anwe-sha-hub/anwe-sha-hub/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anwe-sha-hub/anwe-sha-hub/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🎯 Current Focus
 
 ```yaml
-Learning:
-  - Data Structures & Algorithms
-  - System Design
-  - Machine Learning
+current_focus:
+  learning:
+    - MERN stack — advanced patterns, auth flows, deployment
+    - System design fundamentals for scalable web apps
+    - Advanced DSA — dynamic programming, graph algorithms
+    - TypeScript for production-grade frontend development
 
-Building:
-  - AI Study Planner
-  - Full Stack Applications
+  building:
+    - CouponVault: full-stack coupon management platform (MERN)
+    - Personal portfolio site showcasing projects and skills
+    - DSA problem archive for GFG KIIT and self-study
 
-Exploring:
-  - Generative AI
-  - Cloud Technologies
+  exploring:
+    - React performance optimisation and state architecture
+    - REST API design best practices with Node.js & Express
+    - Cloud deployment on Vercel, Render, and MongoDB Atlas
+    - Open source contribution workflows
 
-Open_To:
-  - Software Engineering Internships
-  - Full Stack Roles
-  - AI/ML Opportunities
+  open_to:
+    - SDE / Full Stack Engineering Internships
+    - Frontend Engineering Roles
+    - Hackathon Teams & Collaborative Projects
+    - Open Source Maintainership
 ```
 
 ---
 
-# Connect
+## 🤝 Connect
 
 <div align="center">
 
-<a href="mailto:anwesshajhaa@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/anwesha-jha-aa3782322/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/anwe-sha-hub">
-<img src="https://img.shields.io/badge/GitHub-Profile-4B0082?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![Gmail](https://img.shields.io/badge/Gmail-anweshajha%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anwesshajhaa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anwesha%20Jha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anwesha-jha-aa3782322/))
+[![GitHub](https://img.shields.io/badge/GitHub-@anwe--sha--hub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anwe-sha-hub)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/anwe-sha-hub/Portfolio)
 
 </div>
 
@@ -295,14 +398,7 @@ Open_To:
 
 <div align="center">
 
-*"Engineering impactful products through code, curiosity, and continuous learning."*
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:4B0082,25:6A0DAD,50:7B2CBF,75:5A189A,100:3C096C"/>
-
-
-*"The best software engineers are not those who write the most code, but those who build the right systems — with clarity, intention, and craft."*
+*"The best engineers are not those who write the most code, but those who build the right things — with clarity, intention, and craft."*
 
 <br/>
 
