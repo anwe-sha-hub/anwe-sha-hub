@@ -1,16 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4B0082,25:6A0DAD,50:7B2CBF,75:5A189A,100:3C096C&text=Anwesha%20Jha&fontColor=ffffff&fontSize=55&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4B0082,25:6A0DAD,50:7B2CBF,75:5A189A,100:3C096C&text=Anwesha%20Jha&fontColor=ffffff&fontSize=55&fontAlignY=40&desc=Computer%20Science%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=900&lines=B.Tech+CSE+Student;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+Software+Products;Open+Source+Contributor"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=900&lines=B.Tech+CSE+Student;Full+Stack+Developer;Exploring+AI+and+Machine+Learning;Building+Web+Applications;Learning+DSA+and+System+Design"/>
 
 <br/>
-
-![](https://img.shields.io/badge/B.Tech-CSE-6A0DAD?style=for-the-badge)
-![](https://img.shields.io/badge/KIIT-University-5A189A?style=for-the-badge)
-![](https://img.shields.io/badge/Software-Engineering-4B0082?style=for-the-badge)
-
-![](https://img.shields.io/badge/Location-Bhubaneswar%2C%20India-7B2CBF?style=for-the-badge)
 
 <a href="https://www.linkedin.com/in/anwesha-jha-aa3782322/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -24,172 +18,125 @@
 <img src="https://img.shields.io/badge/GitHub-Profile-4B0082?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-![](https://komarev.com/ghpvc/?username=anwe-sha-hub&style=for-the-badge&color=6A0DAD)
-![](https://img.shields.io/github/followers/anwe-sha-hub?style=for-the-badge&color=7B2CBF)
-![](https://img.shields.io/github/stars/anwe-sha-hub?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=5A189A)
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=anwe-sha-hub&style=for-the-badge&color=6A0DAD"/>
+<img src="https://img.shields.io/github/followers/anwe-sha-hub?style=for-the-badge&color=7B2CBF"/>
 
 </div>
 
 ---
 
-# About Me
+# 👋 About Me
 
-I am a Computer Science Engineering student focused on building scalable software systems, modern web applications, and AI-powered solutions. My interests lie at the intersection of Software Engineering, Full Stack Development, Artificial Intelligence, and Product Development.
+I am a **Computer Science Engineering student** interested in **Software Engineering, Full Stack Development, Artificial Intelligence, and Product Development**.
 
-I enjoy transforming ideas into production-ready applications using modern technologies while maintaining clean architecture, performance, scalability, and security standards.
+I enjoy building web applications, exploring AI-powered solutions, and turning ideas into practical projects. Currently, I am focused on improving my problem-solving skills, strengthening my understanding of system design, and building better software with modern technologies.
 
-### Open To
+### 🎯 Currently Open To
 
-- Software Engineering Internships
-- Full Stack Development Roles
-- AI/ML Projects
-- Open Source Contributions
-- Product Engineering Opportunities
-- Technical Communities & Hackathons
+* Software Engineering Internships
+* Full Stack Development Opportunities
+* AI/ML Projects
+* Open Source Contributions
+* Hackathons & Technical Communities
 
 ---
 
-# Tech Stack
+# 🛠️ Tech Stack
 
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,js,html,css"/>
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css"/>
 </p>
 
 ### Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,js"/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind"/>
 </p>
 
 ### Backend & Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,spring,mysql,mongodb"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,spring,mysql,mongodb"/>
 </p>
 
-### Cloud, DevOps & Tooling
+### Tools & Platforms
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux"/>
 </p>
 
 ---
 
-# AI / ML Expertise
+# 🚀 Featured Projects
 
-| Domain | Proficiency | Details |
-|----------|----------|----------|
-| Machine Learning | Intermediate | Model Training, Feature Engineering, Data Analysis |
-| Generative AI | Intermediate | Prompt Engineering, LLM Applications |
-| AI Product Development | Intermediate | AI-enabled Productivity Solutions |
-| Data Processing | Intermediate | Data Cleaning & Transformation |
-| AI Application Design | Intermediate | User-focused AI Product Development |
+## 🎟️ Coupon Vault
 
----
+A centralized coupon management platform designed to help users **store, organize, and retrieve discount coupons efficiently**.
 
-# Featured Projects
+**Tech Stack:** `Next.js` `Node.js` `JavaScript`
 
-<details>
-<summary><b>Coupon Vault</b></summary>
+* 📌 Organize and manage coupons in one place
+* 🔍 Search and retrieve coupons efficiently
+* 👥 Designed for multi-user usage
+* 💻 Focused on improving coupon organization and accessibility
 
-### Secure Coupon Management Platform
-
-| Metric | Details |
-|----------|----------|
-| Stack | Next.js, Node.js, JavaScript |
-| Scale | Multi-user coupon management |
-| Performance | Optimized search and retrieval |
-| Security | Role-based access control |
-| Impact | Simplified coupon organization |
-| Repository | GitHub Repository |
-
-Coupon Vault is a centralized coupon management platform designed to help users store, organize, and retrieve discount coupons efficiently.
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>AI Study Planner</b></summary>
-
-### AI-Powered Academic Productivity Platform
-
-| Metric | Details |
-|----------|----------|
-| Stack | Next.js, Node.js, AI APIs |
-| Scale | Student-focused productivity solution |
-| Performance | Intelligent schedule generation |
-| Security | Protected user data workflows |
-| Impact | Improved learning efficiency |
-| Repository | GitHub Repository |
-
-AI Study Planner leverages AI-driven planning techniques to generate personalized study schedules and optimize learning workflows.
-
-</details>
+🔗 **[View Repository](https://github.com/anwe-sha-hub)**
 
 ---
 
-# Experience
+## 🤖 AI Study Planner
 
-## Web Developer | IoT Labs (KIIT Chapter)
+An AI-powered academic productivity application designed to help students **organize study schedules and learning workflows**.
 
-### Scope of Work
+**Tech Stack:** `Next.js` `Node.js` `AI APIs`
 
-- Developed responsive web interfaces
-- Improved user experience and accessibility
-- Collaborated with cross-functional teams
-- Supported technical community initiatives
+* 🧠 Generates personalized study plans
+* 📅 Helps organize academic tasks and schedules
+* 🤖 Explores AI-assisted productivity workflows
+* 🎓 Designed around student learning requirements
 
-**Skills**
-
-`Next.js` `Node.js` `JavaScript` `Git` `GitHub`
-
-<br/>
-
-## Web Developer | GeeksforGeeks KIIT
-
-### Scope of Work
-
-- Website development
-- Feature implementation
-- UI improvements
-- Team collaboration
-
-**Skills**
-
-`JavaScript` `HTML` `CSS`
-
-<br/>
-
-## Web Developer Intern | InAmgios Foundation
-
-### Scope of Work
-
-- Frontend development
-- Website maintenance
-- Feature enhancements
-- Technical collaboration
-
-**Skills**
-
-`Web Development` `Node.js`
+🔗 **[View Repository](https://github.com/anwe-sha-hub)**
 
 ---
 
-# Achievements
+# 💼 Experience
 
-| Recognition | Details |
-|------------|----------|
-| Full Stack Development | Built multiple end-to-end web applications |
-| Community Contribution | Active contributor in technical communities |
-| AI Innovation | Developed AI-powered productivity solutions |
-| Software Engineering Growth | Focused on scalable product development |
+## Web Developer — IoT Labs, KIIT
+
+* Developed and improved responsive web interfaces
+* Worked on user experience and accessibility
+* Collaborated with technical teams on web-based projects
+* Contributed to technical and community initiatives
+
+**Skills:** `Next.js` `JavaScript` `Git` `GitHub`
 
 ---
 
-# Coding Profiles
+## Web Developer — GeeksforGeeks KIIT
+
+* Contributed to website development and feature implementation
+* Worked on frontend improvements and UI enhancements
+* Collaborated with team members on technical projects
+
+**Skills:** `JavaScript` `HTML` `CSS`
+
+---
+
+## Web Developer Intern — InAmgios Foundation
+
+* Contributed to frontend development
+* Assisted with website maintenance and feature improvements
+* Worked with the development team on web-based projects
+
+**Skills:** `Web Development` `Node.js`
+
+---
+
+# 🧠 Coding Profiles
 
 <div align="center">
 
@@ -202,7 +149,7 @@ AI Study Planner leverages AI-driven planning techniques to generate personalize
 </a>
 
 <a href="https://www.naukri.com/code360/profile/nwes">
-<img src="https://img.shields.io/badge/Coding%20Ninjas-Code360-5A189A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Code360-Profile-5A189A?style=for-the-badge"/>
 </a>
 
 <a href="https://codeforces.com/profile/anwesshajhaa">
@@ -213,31 +160,17 @@ AI Study Planner leverages AI-driven planning techniques to generate personalize
 
 ---
 
-# GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anwe-sha-hub&show_icons=true&theme=midnight-purple&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anwe-sha-hub&theme=midnight-purple&hide_border=true"/>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwe-sha-hub&layout=compact&theme=midnight-purple&hide_border=true"/>
 
 </div>
 
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=anwe-sha-hub&theme=algolia&no-frame=true&column=4"/>
-
-</div>
-
----
-
-# Contribution Activity
+<br/>
 
 <div align="center">
 
@@ -247,17 +180,7 @@ AI Study Planner leverages AI-driven planning techniques to generate personalize
 
 ---
 
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/anwe-sha-hub/anwe-sha-hub/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# Current Focus
+# 🎯 Current Focus
 
 ```yaml
 Learning:
@@ -266,22 +189,18 @@ Learning:
   - Machine Learning
 
 Building:
-  - AI Study Planner
   - Full Stack Applications
+  - AI-powered Projects
 
 Exploring:
   - Generative AI
   - Cloud Technologies
-
-Open_To:
-  - Software Engineering Internships
-  - Full Stack Roles
-  - AI/ML Opportunities
+  - Open Source
 ```
 
 ---
 
-# Connect
+# 🤝 Let's Connect
 
 <div align="center">
 
@@ -299,11 +218,11 @@ Open_To:
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-*"Engineering impactful products through code, curiosity, and continuous learning."*
+> *Building, learning, and improving one project at a time.*
 
 </div>
 
