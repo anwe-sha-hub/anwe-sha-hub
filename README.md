@@ -84,7 +84,7 @@ A centralized coupon management platform designed to help users **store, organiz
 * 👥 Designed for multi-user usage
 * 💻 Focused on improving coupon organization and accessibility
 
-🔗 **[View Repository](https://github.com/anwe-sha-hub)**
+🔗 **[View Repository](https://github.com/anwe-sha-hub/CodeVault)**
 
 ---
 
@@ -99,7 +99,7 @@ An AI-powered academic productivity application designed to help students **orga
 * 🤖 Explores AI-assisted productivity workflows
 * 🎓 Designed around student learning requirements
 
-🔗 **[View Repository](https://github.com/anwe-sha-hub)**
+🔗 **[View Repository](https://github.com/anwe-sha-hub/Syallbus.Ai)**
 
 ---
 
