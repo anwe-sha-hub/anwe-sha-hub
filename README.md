@@ -160,7 +160,7 @@ An AI-powered academic productivity application designed to help students **orga
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -171,6 +171,8 @@ An AI-powered academic productivity application designed to help students **orga
 </div>
 
 <br/>
+
+## 📈 Contribution Activity
 
 <div align="center">
 
